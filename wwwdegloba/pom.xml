@@ -213,7 +213,7 @@
         <dependency>
         	<groupId>org.pac4j</groupId>
         	<artifactId>pac4j-core</artifactId>
-        	<version>1.8.0</version>
+        	<version>5.2.0</version>
         </dependency>
 
 
